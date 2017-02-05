@@ -1,7 +1,9 @@
 go-slack-reporting
 ==================
 
+[![Build Status](https://travis-ci.org/itglobal/go-slack-reporting.svg?branch=master)](https://travis-ci.org/itglobal/go-slack-reporting)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](LICENSE)
+[![GoDoc](https://godoc.org/github.com/itglobal/go-slack-reporting?status.png)](https://godoc.org/github.com/itglobal/go-slack-reporting)
 
 Small utility library to report last state of any long-running process to Slack.
 
